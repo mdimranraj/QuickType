@@ -1,0 +1,14 @@
+.container{
+    min-height: 80px ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #19A7CE;
+    border-radius: 50% 50% 0 0;
+}
+.heading{
+    width: fit-content;
+    margin: 5px auto;
+    color: #ede5e5;
+}
